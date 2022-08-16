@@ -1,0 +1,38 @@
+/* @media screen and (max-width:768px) {
+    .navbar .navbar-nav .nav-item .nav-link{
+width: auto;
+}  
+    
+} */
+
+
+
+/* @media (max-width: 768px) {
+ .navbar{
+    padding: 0px;
+ }
+} */
+@media (max-width: 575px){
+.main-text {
+    padding-bottom: 30px;
+}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+.main-text h1 {
+    font-size: 70px;
+    line-height: 100px;
+}
+}
+@media (min-width: 576px) and (max-width: 767px){
+.main-text h1 {
+    font-size: 77px;
+    line-height: 100px;
+}
+}
+@media (max-width: 575px){
+.main-text h1 {
+    font-size: 50px;
+    line-height: 70px;
+}
+}
